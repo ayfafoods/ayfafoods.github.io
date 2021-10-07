@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ayfa Foods</title>
+    <link>http://www.ayfafoods.com/</link>
+    <description>Recent content in Home on Ayfa Foods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://www.ayfafoods.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.ayfafoods.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ayfafoods.com/about/</guid>
+      <description>Ayfa Impex (Pvt) Ltd was founded in 2010 by Engr Zahid Saleem. Since then we have worked hard to provide the best services and products to our customers. With our farms in Bhakkar, Southern Punjab we ensure to provide best quality spices, grains and rice to our customers all over Pakistan and the world.
+  We not only sell our products in Pakistan but export it all over the world and help our country earn precious foreign revenue and help our economy.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.ayfafoods.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ayfafoods.com/contact/</guid>
+      <description>Head Office:-    Phone No:- 042-35232813 Cell:- 0333-4140399 Address:- 143-E Nawab Town, Lahore.  City Office:-    Broker Zahid Saleem Phone No:- 042-37379095, 042-35232813 Cell:- 0321-4128054, 0333-4140399, 0341-4591093 Address:- Ayfa Traders and Co Qazi Center, Akbari Mandi, Lahore.  </description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>http://www.ayfafoods.com/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ayfafoods.com/products/</guid>
+      <description>Ever since our foundation in 2010 we have worked hard to ensure that we give the best and finest products to our customers.
+We currently deal in the finest Basmati Rice, Wheet, Red Chilli, Spices and Herbs of all kinds from not only our farms but from all over Pakistan.
+  We can also work with you in exporting your farm products to abroad and importing agriculture products from China, Germany and the UK.</description>
+    </item>
+    
+  </channel>
+</rss>
